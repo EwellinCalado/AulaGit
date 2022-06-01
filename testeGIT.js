@@ -1,1 +1,2 @@
-console.log("Qualquer coisa");
+console.log("Uma mensagem qualquer para testar");
+// testando
